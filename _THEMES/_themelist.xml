@@ -14,6 +14,9 @@
 	<theme id="anime" name="Anime" thumb="" cc_theme_id="anime" />
 	<theme id="ninjaanime" name="Ninja Anime" thumb="" cc_theme_id="ninjaanime" />
 	<theme id="spacecitizen" name="Space Citizens" thumb="" cc_theme_id="spacecitizen" />
+	<theme id="talkingpicz" name="Talking Picz" thumb="" cc_theme_id="talkingpicz" />
+	<theme id="wildlife" name="Wildlife" thumb="" cc_theme_id="wildlife" />
+	<theme id="e-card" name="E-Card" thumb="" cc_theme_id="e-card" />
 	<word></word>
 	<whiteword />
 	<excludeAssetIDs />
