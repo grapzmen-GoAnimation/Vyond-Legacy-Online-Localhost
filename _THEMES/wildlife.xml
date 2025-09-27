@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="wildlife" name="Wildlife">
+        <char id="elephant" name="elephant" thumb="stand.swf" facing="left" default="stand.swf" motion="stand.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+		<char id="giraffe" name="giraffe" thumb="stand.swf" facing="left" default="stand.swf" motion="stand.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+		<char id="hippo" name="hippo" thumb="stand.swf" facing="left" default="stand.swf" motion="stand.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+		<char id="wildpig" name="wildpig" thumb="stand.swf" facing="left" default="stand.swf" motion="stand.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+		<char id="zebra" name="zebra" thumb="stand.swf" facing="left" default="stand.swf" motion="stand.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+</theme>

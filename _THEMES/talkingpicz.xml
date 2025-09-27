@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="talkingpicz" name="Talking Picz">
+        <char id="ios" name="IOS" thumb="ios.swf" facing="left" default="ios.swf" motion="ios.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="ios.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+		<char id="android" name="Android" thumb="android.swf" facing="left" default="android.swf" motion="android.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="android.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+        <background id="allprops_bg.swf" name="Talking Picz Background" enable="Y" default="N" is_premium="N" aid="20527" money="0" sharing="0"/>
+</theme>

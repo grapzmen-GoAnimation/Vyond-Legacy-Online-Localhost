@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="e-card" name="E-Card">
+        <char id="33396776" name="33396776" thumb="33396777.swf" facing="left" default="33396777.swf" motion="33396777.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="33396777.swf" name="33396777" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+		<char id="33396792" name="33396792" thumb="33396793.swf" facing="left" default="33396793.swf" motion="33396793.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="33396793.swf" name="33396793" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+		<char id="34474850" name="34474850" thumb="34474851.swf" facing="left" default="34474851.swf" motion="34474851.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="34474851.swf" name="34474851" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+		<char id="33396714" name="33396714" thumb="33396715.swf" facing="left" default="33396715.swf" motion="33396715.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <tag>cat:Stock characters</tag>
+        <category name="Basic">
+        <action id="33396715.swf" name="33396715" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+</theme>
