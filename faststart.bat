@@ -28,5 +28,6 @@ if exist notinstalled (
 :: Run npm start
 :start
 echo Vyond Legacy Online is now starting...
-echo Please Navigate To http://localhost On Your Browser.
+echo Please Navigate To http://localhost:3000 Or http://127.0.0.1:3000 On Your Browser.
 npm start
+
