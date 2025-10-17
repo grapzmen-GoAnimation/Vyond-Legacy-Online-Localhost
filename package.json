@@ -1,9 +1,9 @@
 {
-	"name": "goanimate",
-	"version": "2.0.0",
-	"versionStr": "2.0.0",
+	"name": "vyondlegacy",
+	"version": "1.0.1",
+	"versionStr": "1.0.1",
 	"scripts": {
-		"start": "node main.js"
+		"start": "node server.js"
 	},
 	"main": "index.js",
 	"dependencies": {
