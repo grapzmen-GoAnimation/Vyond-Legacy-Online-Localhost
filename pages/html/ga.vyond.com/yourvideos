@@ -382,7 +382,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li>
                     </li><li>
                         <a class="hidden-sm hidden-md hidden-lg" href="/videomaker">Make a Video</a>
-                        <span class="site-nav-btn hidden-xs"><a class="btn btn-orange" href="/videomaker">Make a Video</a></span>
+                        <span class="site-nav-btn hidden-xs"><a class="btn btn-orange" href="/pages/html/ga.vyond.com/videomaker">Make a Video</a></span>
                     </li>
 
 <script>
@@ -461,8 +461,8 @@ _wq.push({ id: '70x3iky0kr', onReady: function(video) {
     })
 }});
 </script>
-	</a><div class="vm5-banner"><a href="https://github.com/grapzmen-goanimation/Vyond-Legacy-Online-Localhost">
-    </a><div class="container"><a href="https://github.com/grapzmen-goanimation/Vyond-Legacy-Online-Localhost">
+	</a><div class="vm5-banner">
+    </a><div class="container">
         <div class="vm5-banner__video-wrapper">
             <img src="https://fanimation36.github.io/fanimation2.github.io/static/55910a7cd204c37c/go/img/vm5_alpha/banner/laptop.png" alt="">
             <div class="vm5-banner__video">
@@ -479,7 +479,7 @@ transition: none !important;
                 </div>
             </div>
         </div>
-        </a><div class="vm5-banner__main"><a href="https://github.com/grapzmen-goanimation/Vyond-Legacy-Online-Localhost">
+        </a><div class="vm5-banner__main">
             <h1 class="vm5-banner__main__title">
                 Make Videos <b>Faster</b>            </h1>
             <div class="vm5-banner__main__content">
